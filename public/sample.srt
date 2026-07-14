@@ -1,0 +1,15 @@
+1
+00:00:00,500 --> 00:00:03,000
+Welcome to Caption Studio
+
+2
+00:00:03,200 --> 00:00:06,500
+Import a video and this SRT to try the editor
+
+3
+00:00:07,000 --> 00:00:10,000
+Drag captions on the timeline to fix timing
+
+4
+00:00:10,500 --> 00:00:14,000
+Style presets let you change the look instantly
